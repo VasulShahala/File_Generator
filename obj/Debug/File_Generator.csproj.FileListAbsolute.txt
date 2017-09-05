@@ -1,0 +1,9 @@
+c:\users\dr.house\documents\visual studio 2017\Projects\File_Generator\File_Generator\bin\Debug\File_Generator.exe.config
+c:\users\dr.house\documents\visual studio 2017\Projects\File_Generator\File_Generator\bin\Debug\File_Generator.exe
+c:\users\dr.house\documents\visual studio 2017\Projects\File_Generator\File_Generator\bin\Debug\File_Generator.pdb
+c:\users\dr.house\documents\visual studio 2017\Projects\File_Generator\File_Generator\obj\Debug\File_Generator.csprojResolveAssemblyReference.cache
+c:\users\dr.house\documents\visual studio 2017\Projects\File_Generator\File_Generator\obj\Debug\File_Generator.Form1.resources
+c:\users\dr.house\documents\visual studio 2017\Projects\File_Generator\File_Generator\obj\Debug\File_Generator.Properties.Resources.resources
+c:\users\dr.house\documents\visual studio 2017\Projects\File_Generator\File_Generator\obj\Debug\File_Generator.csproj.GenerateResource.Cache
+c:\users\dr.house\documents\visual studio 2017\Projects\File_Generator\File_Generator\obj\Debug\File_Generator.exe
+c:\users\dr.house\documents\visual studio 2017\Projects\File_Generator\File_Generator\obj\Debug\File_Generator.pdb
